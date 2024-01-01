@@ -1,0 +1,22 @@
+{
+  "name": "renovate-reproduction-read-pkg-up",
+  "version": "1.0.0",
+  "description": "minimal reproduction of missing replacement PR",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travi/renovate-reproduction-read-pkg-up.git"
+  },
+  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travi/renovate-reproduction-read-pkg-up/issues"
+  },
+  "homepage": "https://github.com/travi/renovate-reproduction-read-pkg-up#readme",
+  "dependencies": {
+    "read-pkg-up": "^11.0.0"
+  }
+}
